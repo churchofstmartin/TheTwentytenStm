@@ -27,7 +27,10 @@
     </li>
 
     <li id="sidebar-link">
-	<a class="sidebar" href="mailto:info@churchofstmartin.org" title="contact us" target="_blank">Contact Us</a>
+        <a class="sidebar"
+        href="http://ec2-54-245-119-78.us-west-2.compute.amazonaws.com/contact-us/"
+        title="contact us" target="_blank">Contact Us</a>
+
     </li>
 
   </ul>

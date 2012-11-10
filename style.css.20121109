@@ -160,13 +160,6 @@ width: 700px;
   margin-left: 50px;
 }
 
-#podcast {
-  width: 60%;
-  overflow: auto;
-  margin-left: 50px;
-}
-
-
 #mhsidebar {
   /*position: fixed; */ 
   /* position: relative; */

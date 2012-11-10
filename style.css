@@ -166,6 +166,25 @@ width: 700px;
   margin-left: 50px;
 }
 
+#announcement {
+  width: 60%;
+  overflow: auto;
+  margin-left: 50px;
+}
+
+#announcement h2 {
+  color: blue;
+}
+
+#announcement h1 {
+  color: black;
+  font-size: 21px;
+  font-weight: bold;
+  line-height: 1.3em;
+  margin-bottom: 0;
+}
+
+
 
 #mhsidebar {
   /*position: fixed; */ 
